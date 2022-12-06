@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\lessonThree002\bin\Debug\net6.0\lessonThree002.exe
+C:\Users\PC\Desktop\C#\lessonThree002\bin\Debug\net6.0\lessonThree002.deps.json
+C:\Users\PC\Desktop\C#\lessonThree002\bin\Debug\net6.0\lessonThree002.runtimeconfig.json
+C:\Users\PC\Desktop\C#\lessonThree002\bin\Debug\net6.0\lessonThree002.dll
+C:\Users\PC\Desktop\C#\lessonThree002\bin\Debug\net6.0\lessonThree002.pdb
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.dll
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\refint\lessonThree002.dll
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.pdb
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\lessonThree002.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\lessonThree002\obj\Debug\net6.0\ref\lessonThree002.dll
